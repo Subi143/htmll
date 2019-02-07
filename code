@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>MPHASIS BANK</title>
+</head>
+<body>
+	<div id="header" align="center" style="background-color: brown; width: 100%; height: 70px;">
+		<h1 style="color: white;">MPHASIS BANK</h1>
+	</div>
+	<form method="get" action="link.html" autocomplete="off" >
+	<div id="nav" align="center" style="background-image:  url('https://upload.wikimedia.org/wikipedia/commons/1/16/Appearance_of_sky_for_weather_forecast%2C_Dhaka%2C_Bangladesh.JPG');
+	 width: 40%; height: 600px; float: left" >
+		<table>
+			<caption><h2>Login</h2>
+			<br/>
+			<br/>
+			<tr>
+				<td><b><h3>Customer ID*:</h3></b></td>
+				<td><input type="text" name="accno" placeholder="Enter Account Number" required></td>
+			</tr>
+					
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+					
+			<tr>
+				<td><b><h3>Password* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</h3></b></td>
+				<td><input type="password" name="pw" placeholder="Enter Password" required></td>
+			</tr>
+					
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+					
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+					
+			<tr>
+				<td><input type="checkbox" name="rob" value="rob" required><i><b>I'm not a robot</b></i></td>
+			</tr>
+				
+		</table>
+		</br
+		<br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input type="submit" style="background-color:green; color:white; border-radius:50px; border-style: dashed; 
+		width:90px; height:40px;" value="Login">
+		&nbsp;
+		<input type="reset" style="background-color:red; color:white; border-radius:50px; border-style: dashed;
+		 width:90px; height:40px;" value="Reset">
+		 
+	<br/>
+	<br/>
+	<br/>	
+	 
+	 <input type="reset" style="background-color: orange; color:white; border-radius:50px; border-style: dashed;
+		 width:90px; height:40px; border-color: red" value="New User">
+	</div>
+	
+	
+	
+	<form method="get" action="link.html" autocomplete="off">
+		<div id="body" align="center" style="width: 60%; height: 600px; float: right; 
+		background-image: url('https://www.firstcommand.com/assets/pages/banking/personal/online-banking/online-banking-payments-small.jpg'); 
+		background-size: 800px 600px">
+		</div>
+	</form>
+	
+	
+	
+	<div id="footer" align="left" style="background-color: #E8E8E8; width: 100%; height: 170px; float: right">
+			<font color="red"><b>Home</b></font>
+			<br/>
+			<br/>
+			<font color="red"><b>Contact</b></font>
+			<br/>
+			<br/>
+			<font color="red"><b>About Us</b></font>
+			
+	</div>
+	 
+	 
+	
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+</body>
+</html>
